@@ -1,6 +1,6 @@
 ## 🗒 _Note Taker_ 🗒 ## 
 
-[Link to the live Heroku-hosted deployed application](https://note-taker-express-app.herokuapp.com/)
+[Link to the live Heroku-hosted deployed application](https://notetaker-abdul-razaq.herokuapp.com/)
 
 ## Table of Contents
 * [Screenshots](#screenshots)
