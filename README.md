@@ -19,12 +19,20 @@
 
 ## Installation 
 ```
+Upon opening the terminal in your integrated development envionrment (IDE) and source-code editor of choice, run the following commands:
+
 npm i 
+
+node server.js
+
+This should make it so that the server is listening on the local port of 7440 to which it is set. 
+
 ```
 
 ## Usage 
 ```
 In the terminal, run "node server.js" to start with and after initiation navigate to a browser window and redirect to the specified, in the "server.js" file, localhost:8080
+```
 
 
 
